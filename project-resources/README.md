@@ -88,11 +88,10 @@ premier-league-predictor/
 │
 ├── notebooks/
 │   ├── 01_data_collection.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_exploratory_analysis.ipynb
-│   ├── 04_feature_engineering.ipynb
-│   ├── 05_model_training.ipynb
-│   └── 06_predictions.ipynb
+│   ├── 02_exploratory_analysis.ipynb
+│   ├── 03_feature_engineering.ipynb
+│   ├── 04_model_training.ipynb
+│   └── 05_predictions.ipynb
 │
 ├── src/
 │   ├── data_processing.py
