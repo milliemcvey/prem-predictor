@@ -316,7 +316,7 @@ Current focus:
 <h2>📬 Contact</h2>
 
 <p>
-Created by <strong>Your Name</strong>
+Created by <strong>Millie McVey</strong>
 </p>
 
 <p>
@@ -326,9 +326,3 @@ Feel free to connect or provide feedback.
 ---
 
 <h2>⭐ Acknowledgements</h2>
-
-<ul>
-  <li>Football-Data.co.uk</li>
-  <li>Kaggle football datasets</li>
-  <li>Premier League historical statistics</li>
-</ul>
