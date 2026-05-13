@@ -231,7 +231,7 @@ The project investigates trends such as:
 <p>Clone the repository:</p>
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/premier-league-predictor.git
+git clone https://github.com/milliemcvey/premier-league-predictor.git
 ```
 
 <p>Move into the project directory:</p>
