@@ -1,5 +1,3 @@
-# prem-predictor
-
 <h1 align="center">⚽ Premier League Predictor</h1>
 
 <p align="center">
